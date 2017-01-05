@@ -4,7 +4,7 @@ order:
 title: EvoThings
 heading: EvoThings
 description: EvoThings
-permalink: /bluetooth/evothings
+permalink: /bluetooth/evothings/
 ref: evothings
 lang: en
 assigned-to: davidw
